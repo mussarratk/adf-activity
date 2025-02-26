@@ -17,3 +17,9 @@ Fail Activity:
 This allows the pipeline to intentionally fail, and to give a specific error message. This is very useful for error handling.
 Set variable:
 This allows for the setting of variables within the pipeline, that can then be used in other control flow activities, or in other activities within the pipeline.
+### def add(x, y) ----- function with 2 parameters
+      pass
+    add(5.3)--------function call with 2 arguments. These values get place on above variables and 4
+
+    ![image](https://github.com/user-attachments/assets/1cbfc14d-064c-41fc-a509-f41b15b319dc)
+
