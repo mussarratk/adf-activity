@@ -24,4 +24,12 @@ This allows for the setting of variables within the pipeline, that can then be u
       pass
     add(5.3)--------function call with 2 arguments. These values get place on above variables and 4
 
+![image](https://github.com/user-attachments/assets/7501ec80-6bee-451e-ad07-a1d143fe2300)
+![image](https://github.com/user-attachments/assets/d3a925da-b14b-4cb0-9b8f-f970e0be700d)
+## Spark databrick
+![image](https://github.com/user-attachments/assets/cfb66173-0af5-4172-9104-90d1ef5f6459)
+
+
+
+
 
