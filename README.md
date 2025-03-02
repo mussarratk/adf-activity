@@ -29,6 +29,7 @@ This allows for the setting of variables within the pipeline, that can then be u
 ## Spark databrick
 ![image](https://github.com/user-attachments/assets/cfb66173-0af5-4172-9104-90d1ef5f6459)
 
+![image](https://github.com/user-attachments/assets/87e947ca-88b2-45f0-9b53-faf024f006bd)
 
 
 
